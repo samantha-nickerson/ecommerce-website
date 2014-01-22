@@ -69,3 +69,19 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
 	color: #393;
 }
+
+a,
+a:link 
+a:visited {
+	color: rgba(96,61,57,0.8);
+	text-decoration: none;
+	border-bottom: 0px solid rgba(96,61,57,0.8);
+	transition: all 200ms linear;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #633;
+	border-bottom: 2px solid #633;
+}
