@@ -3,6 +3,7 @@
 
 .media {
 	overflow: hidden;
+	padding-top: 1rem;
 }
 
 .media-img {
@@ -24,3 +25,10 @@
 	overflow: hidden;
 }
 
+.billboard {
+	height: 17rem;
+	width: 55%;
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 15px;
+	border: 3px solid #CEC4B6;
+}
