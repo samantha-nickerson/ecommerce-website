@@ -159,6 +159,11 @@ s {
 	text-decoration: line-through;
 }
 
+sup,
+sub {
+  line-height: 1;
+}
+
 q {
 	quotes: "\201C" "\201D" "\2018" "\2019";
 }
@@ -213,6 +218,7 @@ th {
 	border-bottom: 1px solid #CEC4B6;
 	padding: 0.25em 1em 0.25em 0;
 }
+
 th {
 	color: #6C4D32;
 	font-weight: 400;
