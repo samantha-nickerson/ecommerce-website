@@ -1,19 +1,40 @@
 .btn,
 .btn:link,
 .btn:visited {
-  display: inline-block;
-  padding: 0.75em 1em;
-  background-color: #793284;
-  background-image: linear-gradient(to bottom, #793284, #571062);
-  border-radius: 6px;
-  box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
-  color: #fff;
-  font-weight: bold;
+	display: inline-block;
+	padding: 0.75em 1em;
+	border: none;
+	color: #F4F2DE;
+	background-color: #6C4D32;
+	border-radius: 6px;
+}
+
+.btn,
+.btn:hover,
+.btn:focus
+.btn:active {
+	color: white;
+	background-color: rgba(108, 77, 50, 0.7);
+	-webkit-transition: 0.25s;
+	-moz-transition: 0.25s;
+	-o-transition: 0.25s;
+	transition: 0.25s;
 }
 
 .btn-alt,
 .btn-alt:link,
 .btn-alt:visited {
-  background-color: #5d8432;
-  background-image: linear-gradient(to bottom, #5d8432, #3b6210);
+	background-color: #CC614F;
+}
+
+.btn-alt,
+.btn-alt:hover,
+.btn-alt:focus
+.btn-alt:active {
+	color: white;
+	background-color: rgba(204, 97, 79, 0.7);
+	-webkit-transition: 0.25s;
+	-moz-transition: 0.25s;
+	-o-transition: 0.25s;
+	transition: 0.25s;
 }
