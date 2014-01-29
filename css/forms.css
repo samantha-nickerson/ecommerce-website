@@ -17,7 +17,7 @@
  /* Form wrapper styling */
 .search-wrapper {
 width: 220px;
-margin: 45px auto 50px auto;
+float: left;
 }
  
 /* Form text input */
