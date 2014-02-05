@@ -19,6 +19,15 @@
 width: 220px;
 margin: 0 auto;
 margin-top: 10px;
+-moz-box-sizing: content-box;
+-webkit-box-sizing: content-box;
+box-sizing: content-box;
+}
+
+.search-wrapper * {
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	box-sizing: content-box;
 }
  
 /* Form text input */
