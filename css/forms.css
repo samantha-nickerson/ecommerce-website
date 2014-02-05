@@ -17,7 +17,8 @@
  /* Form wrapper styling */
 .search-wrapper {
 width: 220px;
-float: left;
+float: right;
+padding-right: 5rem;
 }
  
 /* Form text input */
