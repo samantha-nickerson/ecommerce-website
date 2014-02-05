@@ -11,7 +11,6 @@
 
 html {
 	font: 300 100%/1.5 'Source Sans Pro', sans-serif;
-	background-color: #F4F2DE;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -73,6 +72,7 @@ small, .milli {
 .micro {
 	font-size: 0.7901rem;
 	line-height: 1.8984;
+	padding-top: 2rem;
 }
 
 h1, h2 {
