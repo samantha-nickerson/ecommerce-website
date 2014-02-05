@@ -1,72 +1,41 @@
-.masthead {
-	background-color:#313131;
-	height: 40px;
+header {
+  position: fixed;
+  width: 100%;
+  height: 150px;
+  top: 0;
+  left: 0;
+  background-color: rgba(206, 196, 182, 0.3);
+  border-bottom: 3px solid rgba(206, 196, 182, 0.5);
+  -webkit-transition: height 0.3s;
+}
+  
+.container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+h1 {
+margin-top: 0;
+}
+  
+h1, nav {
+display: inline-block;
+position: relative;
+line-height: 150px;
+-webkit-transition: all 0.3s;
 }
 
-.billboard {
-	background-color:#999;
-	height: 650px;
-	width: 100%;
-	text-align: center;
-}
-
-.logo {
-	display: block;
-	width: 7rem;
-	margin: 0 auto;
-	position: relative;
-	top: 5rem;
-}
-
-.nav-btn,
-.nav-btn:link,
-.nav-btn:visited{
-	display: block;
-	height: 40px;
-	width: 40px;
-	margin: 0 auto;
-	background: #666 url('../images/nav-icon.svg') no-repeat center center;
-}
-
-.nav-btn:hover,
-.nav-btn:focus,
-.nav-btn:active {
-	background-color: #ccc;
-}
-
-/* Style nav links */
-
-.nav a,
-.nav a:link,
-.nav a:visited{
-	display: block;
-	padding: 1rem;
-	text-align: center;
-	color: #FFF;
-	background-color: #313131;
+nav {
+	display: inline-block;
+	float: right;
 	text-decoration: none;
-	border-top: 1px solid #fff;
 }
 
-.nav a:hover,
-.nav a:focus,
-.nav a:active {
-	background-color: #666;
+a {
+  margin-left: 10px;
 }
 
-/* Toggle nav css */
-
-.nav-top{
-	display:none;	
-}
-
-.nav-top[data-state="expanded"]{
-	display: block;
-}
-
-.hide-text{
-	display: block;
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
+a:hover{
+  border-top: 2px dotted white;
+  border-bottom: 2px dotted white;
 }
