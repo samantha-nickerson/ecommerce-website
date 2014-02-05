@@ -1,5 +1,4 @@
 @import url('http://weloveiconfonts.com/api/?family=entypo');
-
 {
   margin: 0;
   padding: 0;
@@ -9,16 +8,11 @@ html, body {
   height: 100%;
 }
 
-body {
-  background: #FFF;
-}
-
 .content {
   padding: 30px;
-  font: 300 40px Lato, sans-serif;
   text-align: center;
+  background: rgba(206, 196, 182, 0.3);
   color: #CC614F;
-  background: #F4F2DE;
 }
 
 .footer {
@@ -31,19 +25,19 @@ body {
   width: 70px;
   height: 70px;
   margin: 0 10px;
+  margin-bottom: 2rem;
   line-height: 70px;
   font-family: Entypo;
   font-size: 35px;
   text-align: center;
-  color: #CEC4B6;
+  color: #fff;
   border-radius: 50%;
-  background: #F4F2DE;
+  background: #CC614F;
   overflow: hidden;
   transition: color .3s;
 }
 
 .social:hover {
-  color: #59d;
+  background-color: rgba(204, 97, 79, 0.8);
   cursor: pointer;
 }
-
