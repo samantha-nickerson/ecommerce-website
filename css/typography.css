@@ -75,6 +75,10 @@ small, .milli {
 	padding-top: 2rem;
 }
 
+h1 {
+	margin-top: 15rem;
+}
+
 h1, h2 {
 	font-family: 'Roboto+Condensed', sans-serif;
 	font-weight: 300;
