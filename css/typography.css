@@ -19,6 +19,10 @@ blockquote, table, hr {
 	margin: 0 0 1.5rem;
 }
 
+h2{
+	padding-top: 2rem;
+}
+
 hr {
 	border-bottom: 1px solid #CEC4B6;
 }
