@@ -5,8 +5,8 @@
 
 .logo {
 	display: block;
-	height: 40px;
-	width: 40px;
+	height: 60px;
+	width: 60px;
 	margin: 0 auto;
 	padding-top: 10px;
 }
@@ -28,4 +28,18 @@
 
 .current {
 	background-color: rgba(244, 242, 222, 0.3);
+}
+
+.banner {
+	background: #6e9d1b url("../images/banner.jpg") no-repeat center center;
+	background-size: cover;
+	padding: 5em 1em 1em;
+	text-align: center;
+	margin-top: 15rem;
+	margin-bottom: -10rem;
+}
+
+.banner h2 {
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.3);
 }

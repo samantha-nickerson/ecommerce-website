@@ -27,7 +27,7 @@
 <body>
 	<header class="masthead island push-0">
 		<div class="grid masthead">
-			<a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/logo.svg" alt="Jewelry By Design" class="logo"></a>
+			<a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/jbd-logo.svg" alt="Jewelry By Design" class="logo"></a>
 		</div>
 		
 		<nav class="nav grid">
@@ -45,6 +45,12 @@
 			</div>
 		</div>
 	</header>
+
+	{% if page.showbanner %}
+	<div class="banner">
+		<h2>{{page.bannertext}}</h2>
+	</div>
+	{% endif %}
 
 	{{content}}
 	
