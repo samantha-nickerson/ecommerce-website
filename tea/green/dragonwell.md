@@ -3,7 +3,7 @@ layout: tea
 type: green
 title: Dragonwell
 meta: meticulously pressed to perfection. 
-image: green-tea.jpg
+image: dragonwell.jpg
 
 ---
 

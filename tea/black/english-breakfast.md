@@ -3,7 +3,7 @@ layout: tea
 type: black
 title: English Breakfast
 meta: a bold flavour with a hint of honey.
-image: tea1.jpg
+image: english-breakfast.jpg
 
 ---
 

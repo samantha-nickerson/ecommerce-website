@@ -3,7 +3,7 @@ layout: tea
 type: black
 title: Orange Pekoe
 meta: a malty, bold and astringent flavour.
-image: black-tea.jpg
+image: orange-pekoe.jpg
 
 ---
 

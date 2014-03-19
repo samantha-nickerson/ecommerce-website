@@ -2,8 +2,11 @@
 	{% for tea in site.pages %}
 		{% if tea.type == include.type %}
 			<li>
-				{{tea.title}}
-				<p>{{tea.meta}}</p>
+				<a href="{{site.baseurl}}{{tea.url}}">
+					<img src="{{site.baseurl}}/images/tea/{{tea.image}}" alt="Photo of {{tea.title}}" />
+					<h4>{{tea.title}}</h4>
+					<p>{{tea.meta}}</p>
+				</a>
 			</li>
 		{% endif %}
 	{% endfor %}

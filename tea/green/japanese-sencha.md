@@ -3,7 +3,7 @@ layout: tea
 type: green
 title: Japanese Sencha
 meta: light, brisk and refreshing.
-image: green-tea.jpg
+image: japanese-sencha.jpg
 
 ---
 
