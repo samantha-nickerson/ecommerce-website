@@ -1,0 +1,9 @@
+<ul>
+	{% for tea in site.pages %}
+		{% if tea.type == 'black' %}
+			<li>
+					{{tea.title}}
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
