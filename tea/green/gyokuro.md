@@ -1,12 +1,16 @@
 ---
 layout: tea
-type: green
+type: Green Teas
 title: Gyokuro
 meta: dark, rich and buttery. 
 image: gyokuro.jpg
+cost: $4.50
+availability: In-Stock
+ingredients: Black tea from Sri Lanka, cornflower petals, natural flavouring.
+featuring: Free silver tin with purchase.
 
 ---
 
 ## Gyokuro
 
-*Gyokuro* dark, rich and buttery.
+Dark, rich and buttery.

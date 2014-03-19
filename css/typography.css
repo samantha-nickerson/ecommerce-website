@@ -91,7 +91,7 @@ h3, h4, h5, h6 {
 a,
 a:link 
 a:visited {
-	color: #FFF;
+	color: #999;
 	text-decoration: none;
 	border-bottom: 2px solid #FFF;
 	transition: all 200ms linear;
@@ -100,7 +100,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-	color: #999;
+	color: #CCC;
 	border-bottom: 2px solid #FFF;
 }
 
