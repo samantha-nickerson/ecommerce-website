@@ -2,7 +2,8 @@
   Colour Palette
   -Black #000 - rgb(0, 0, 0)
   -Green #91AA3D - rgb(145, 170, 61)
-  -Grey Green #A2A88A - rgb(162, 168, 138)
+  -Gray Green #A2A88A - rgb(162, 168, 138)
+  -Light Gray ##e6e6e6 - rgb(230, 230, 230)
  */
 
 html {
@@ -13,10 +14,6 @@ h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr {
 	margin: 0 0 1.5rem;
-}
-
-h2{
-	padding-top: 2rem;
 }
 
 hr {
@@ -76,17 +73,17 @@ small, .milli {
 }
 
 h1 {
-	margin-top: 15rem;
+	margin-top: 3rem;
 }
 
 h1, h2 {
-	font-family: 'Roboto+Condensed', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 300;
 	color: #91AA3D;
 }
 
 h3, h4, h5, h6 {
-	font-family: 'Roboto+Condensed', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 300;
 	color: #000;
 }

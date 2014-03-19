@@ -1,6 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.search-background{
+	background-color: #e6e6e6;
+	height: 65px;
+}
+
 .cf:before, .cf:after{
     content:"";
     display:table;
@@ -38,7 +43,7 @@ height: 20px;
 padding: 10px 5px;
 float: left;
 border: 0;
-background: rgba(206, 196, 182, 0.3);
+background: #FFF;
 border-radius: 3px 0 0 3px;
 }
  

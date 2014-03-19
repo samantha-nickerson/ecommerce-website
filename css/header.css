@@ -32,15 +32,13 @@
 }
 
 .banner {
-	background: #6e9d1b url("../images/banner.jpg") no-repeat center center;
-	background-size: cover;
-	padding: 5em 1em 1em;
+	background: #6e9d1b url("../images/banner.jpg") repeat center center;
+	padding: 6em;
 	text-align: center;
-	margin-top: 1rem;
-	margin-bottom: -10rem;
+	border-top: 4px solid #000;
 }
 
 .banner h2 {
 	color: #fff;
-	background-color: rgba(0, 0, 0, 0.3);
+	font-family: 'Cedarville Cursive', cursive;
 }
