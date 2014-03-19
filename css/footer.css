@@ -11,8 +11,8 @@ html, body {
 .content {
   padding: 30px;
   text-align: center;
-  background: rgba(206, 196, 182, 0.3);
-  color: #CC614F;
+  background: #000;
+  color: #91AA3D;
 }
 
 .footer {
@@ -22,22 +22,22 @@ html, body {
 
 .social {
   display: inline-block;
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
   margin: 0 10px;
   margin-bottom: 2rem;
-  line-height: 70px;
+  line-height: 40px;
   font-family: Entypo;
-  font-size: 35px;
+  font-size: 15px;
   text-align: center;
   color: #fff;
   border-radius: 50%;
-  background: #CC614F;
+  background: #000;
   overflow: hidden;
   transition: color .3s;
 }
 
 .social:hover {
-  background-color: rgba(204, 97, 79, 0.8);
+  background-color: #666;
   cursor: pointer;
 }

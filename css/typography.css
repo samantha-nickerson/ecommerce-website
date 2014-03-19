@@ -1,12 +1,8 @@
 /*
   Colour Palette
-  - Background Beige: #F4F2DE - rgb(244, 242, 222)
-  - Very Light Brown: #CEC4B6 - rgb(206, 196, 182)
-  - Medium Brown: #9E8B76 - rgb(158, 139, 118)
-  - Dark Brown: #6C4D32 - rgb(108, 77, 50)
-  - Pink: #CC614F - rgb(204, 97, 79)
-  - Black: #000 - rgb(0, 0, 0)
-  - Lighter Black: #333 - rgb(51, 51, 51)
+  -Black #000 - rgb(0, 0, 0)
+  -Green #91AA3D - rgb(145, 170, 61)
+  -Grey Green #A2A88A - rgb(162, 168, 138)
  */
 
 html {
@@ -86,29 +82,29 @@ h1 {
 h1, h2 {
 	font-family: 'Roboto+Condensed', sans-serif;
 	font-weight: 300;
-	color: #CC614F;
+	color: #91AA3D;
 }
 
 h3, h4, h5, h6 {
 	font-family: 'Roboto+Condensed', sans-serif;
 	font-weight: 300;
-	color: #6C4D32;
+	color: #000;
 }
 
 a,
 a:link 
 a:visited {
-	color: #9E8B76;
+	color: #FFF;
 	text-decoration: none;
-	border-bottom: 1px solid #9E8B76;
+	border-bottom: 2px solid #FFF;
 	transition: all 200ms linear;
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: #CEC4B6;
-	border-bottom: 2px solid #CEC4B6;
+	color: #999;
+	border-bottom: 2px solid #FFF;
 }
 
 hr {
