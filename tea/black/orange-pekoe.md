@@ -7,4 +7,4 @@ title: Orange Pekoe
 
 ## Orange Pekoe
 
-*Orange Pekoe* - malty, bold and astringent.
+*Orange Pekoe* a malty, bold and astringent.

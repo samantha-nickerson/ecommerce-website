@@ -1,8 +1,8 @@
 <ul>
 	{% for tea in site.pages %}
-		{% if tea.type == 'black' %}
+		{% if tea.type == include.type %}
 			<li>
-					{{tea.title}}
+				{{tea.title}}
 			</li>
 		{% endif %}
 	{% endfor %}
