@@ -4,9 +4,8 @@
 	display: inline-block;
 	padding: 0.75em 1em;
 	border: none;
-	color: #F4F2DE;
-	background-color: #6C4D32;
-	border-radius: 6px;
+	color: #000;
+	border: 3px solid #000;
 }
 
 .btn,
@@ -14,7 +13,7 @@
 .btn:focus
 .btn:active {
 	color: white;
-	background-color: rgba(108, 77, 50, 0.7);
+	background-color: rgba(0, 0, 0, 0.7);
 	-webkit-transition: 0.25s;
 	-moz-transition: 0.25s;
 	-o-transition: 0.25s;
@@ -24,7 +23,7 @@
 .btn-alt,
 .btn-alt:link,
 .btn-alt:visited {
-	background-color: #CC614F;
+	background-color: #FFF;
 }
 
 .btn-alt,
@@ -32,7 +31,7 @@
 .btn-alt:focus
 .btn-alt:active {
 	color: white;
-	background-color: rgba(204, 97, 79, 0.7);
+	background-color: rgba(0, 0, 0, 0.2);
 	-webkit-transition: 0.25s;
 	-moz-transition: 0.25s;
 	-o-transition: 0.25s;

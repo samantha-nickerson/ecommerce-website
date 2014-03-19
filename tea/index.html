@@ -10,12 +10,12 @@ title: Tea
 </div>
 
 <ul>
-	{% for dino in site.pages %}
+	{% for tea in site.pages %}
 		{% if dino.category == 'dinosaurs' %}
 			<li>
-				<a href="{{site.baseurl}}{{dino.url}}">
-					<img class="img-flex" src="{{site.baseurl}}/images/{{dino.image}}" alt="" />
-					{{dino.title}}
+				<a href="{{site.baseurl}}{{tea.url}}">
+					<img class="img-flex" src="{{site.baseurl}}/images/{{tea.image}}" alt="" />
+					{{tea.title}}
 				</a>
 			</li>
 		{% endif %}
