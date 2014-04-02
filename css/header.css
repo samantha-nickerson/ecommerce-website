@@ -3,6 +3,10 @@
 	height: 100px;
 }
 
+.logo-wrapper {
+	display: block;
+}
+
 .logo {
 	display: block;
 	height: 90px;

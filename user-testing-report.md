@@ -39,7 +39,7 @@ User testing was conducted by Samantha Nickerson on Tuesday, April 1st 2014 betw
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants questioned the "Buy Now" button
+- Two of the participants questioned the "Buy Now" button
 
 ### Minor, Annoying, Won’t Hinder Completion
 

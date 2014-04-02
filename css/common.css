@@ -28,3 +28,13 @@ html {
 	display: block;
 	width: 100%;
 }
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; 
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}

@@ -48,7 +48,7 @@ border-radius: 3px 0 0 3px;
 }
  
 .search-wrapper input:focus {
-    outline: 0;
+    
     background: #fff;
     box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
 }
@@ -95,7 +95,7 @@ text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
 .search-wrapper button:active,
 .search-wrapper button:focus{   
     background: #91AA3D;
-    outline: 0;   
+    
 }
  
 .search-wrapper button:before { /* left arrow */

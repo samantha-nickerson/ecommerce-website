@@ -40,6 +40,12 @@ html, body {
   transition: color .3s;
 }
 
+.social a,
+.social a:link,
+.social a:visited {
+	border: 0;
+}
+
 .social:hover {
   background-color: #666;
   cursor: pointer;

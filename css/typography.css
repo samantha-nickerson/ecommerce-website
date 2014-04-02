@@ -104,6 +104,23 @@ a:active {
 	border-bottom: 2px solid #FFF;
 }
 
+a:hover,
+a:active {
+	/* It is okay to remove the focus rectangle for mouse actions */
+	outline: none;
+}
+
+a:focus,
+input:focus,
+button:focus {
+	/* Focus must always have a focus rectangle for keyboard users */
+	outline: 6px solid #F60;
+	z-index: 2000;
+	position: relative;
+}
+
+
+
 hr {
 	font-weight: bold;
 	font-size: 1em;

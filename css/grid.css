@@ -1,5 +1,15 @@
-.grid {
+/*.grid {
 	overflow: hidden;
+}*/
+
+.grid:before,
+.grid:after {
+    content: " ";
+    display: table;
+}
+
+.grid:after {
+    clear: both;
 }
 
 .unit {
