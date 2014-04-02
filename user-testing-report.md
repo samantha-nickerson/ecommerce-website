@@ -1,10 +1,10 @@
 # User Testing Report
 
-User testing was conducted by Samantha Nickerson on Tuesday, April 1st 2014 between the times of 3:50pm and {end time} with the following participants:
+User testing was conducted by Samantha Nickerson on Tuesday, April 1st 2014 between the times of 3:50pm and {5pm} with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
+- Giulia Balestra
+- Logan Brandwood
+- Tara Boland
 
 ## Tasks
 
@@ -16,43 +16,31 @@ User testing was conducted by Samantha Nickerson on Tuesday, April 1st 2014 betw
 
 ## Individual Results & Observations
 
-### {Jane Doe}
+### Giulia Balestra
 
 - She clicked on the links as expected…
 - She had to scroll down to see more of the products
 - Observations: she said to make products align to grid (3 in a row) for large screens.
 
-### {John Doe}
+### Logan Brandwood
 
-- {He clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {He asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- She clicked on the links as expected…
+- She wasn't sure if "Buy Now" button was the final checkout stage
 
-### {Jordan Doe}
+### Tara Boland
 
-- {She clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- She clicked on the links as expected…
+- She found the navigation easy to follow
+- She found "Buy Now" button should say something more like "Checkout"
 
 ---
 
 ## Trends
 
-### Critical, Needs Fixing, Unable to Complete
-
-- {All participants had this problem…}
-- etc.
-
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {Two of the participants questioned the "Buy Now" button
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- Participants pointed out that it would be easier not to scroll down to see one product at a time. Using grid would help.
