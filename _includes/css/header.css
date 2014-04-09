@@ -32,7 +32,9 @@
 	color: #999;
 }
 
-.current {
+.nav .current,
+.nav .current:link,
+.nav .current:visited {
 	color: #91AA3D;
 }
 
