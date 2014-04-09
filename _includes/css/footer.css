@@ -1,8 +1,3 @@
-@import url('http://weloveiconfonts.com/api/?family=entypo');
-{
-  margin: 0;
-  padding: 0;
-}
 
 html, body {
   height: 100%;
@@ -13,6 +8,20 @@ html, body {
   text-align: center;
   background: #000;
   color: #91AA3D;
+}
+
+.top a,
+.top a:link,
+.top a:visited{
+  text-align:center;
+  text-decoration: none;
+  color: #FFF;
+}
+
+.top a:hover,
+.top a:focus,
+.top a:active {
+  color: #999;
 }
 
 .footer {
