@@ -1,13 +1,13 @@
 # Accessibility Testing Report
 
-User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
+User testing was conducted by Samantha Nickerson on Wenesday, April 2, 2014 between the times of 3pm and 5pm with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
-- {Theresa Doe}
-- {Todd Doe}
-- {Taylor Doe}
+- Logan Brandwood
+- Giulia Balestra
+- Tara Boland
+- Ivy Labossiere
+- Shelley Babij
+- Ariah Boots
 
 ## Tasks
 
@@ -19,57 +19,49 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ## Individual Results & Observations
 
-### {Jane Doe}
+### Logan Brandwood
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
-- etc.
+- She was able to navigate through using only the keyboard
+- She had trouble seeing when the About section of the navigation was highlighted using the tab key
 
-### {John Doe}
+### Shelley Babij
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+- She completed the task using the tab key
+- she had trouble knowing when the navigation was selected
 
-### {Jordan Doe}
+### Ariah Boots
 
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+- she finished the task as expected
+- her only comment was the make the navigation selection easier to see
 
-### {Theresa Doe}
+### Giulia Balestra
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
-- etc.
+- She completed the task
+- She struggled to get back to the top of the page
 
-### {Todd Doe}
+### Ivy Labossiere
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+- she completed the task
+- she had trouble getting back to the top of the page using the Return to Top button in the footer
 
-### {Taylor Doe}
+### Tara Boland
 
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+- She was able to finish the task
+- She was unsure about the image link on the products page 
 
 ---
 
 ## Trends
 
-### Critical, Needs Fixing, Unable to Complete
+### Needs Fixing
 
-- {All participants had this problem…}
-- etc.
+- All participants found that the selection box needed fixing, especially around the navigation area, for those using keyboards
 
-### Serious, Causes Frustration, May Hinder Completion
+### Causes Frustration
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- Some participants found it difficult to reach the top of the page in the during the voice over test, using the Return to Top button in the footer of the website
+
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- One participant found the product link being the image a big confusing while completing the voice over test
