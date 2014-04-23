@@ -1,0 +1,5 @@
+# Hashes are comments
+# http: //en.wikipedia.org/wiki/Robots_exclusion_standard
+# http://www.robotstxt.org/
+Sitemap: http://samantha-nickerson.github.io/ecommerce-website/sitemap.xml
+User-agent: *

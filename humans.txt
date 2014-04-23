@@ -1,0 +1,51 @@
+# humanstxt.org
+
+# Team
+
+Developer/ Designer: Samantha Nickerson
+Locations Ottawa, Canada
+&nbsp;
+
+---
+
+# THANKS
+
+To all the awesome people who helped me.
+
+Public domain images from flickr.com
+
+
+Large promo image: © 2013 Julia Claxton http://mdteashop.co.uk
+
+Small white tea promo image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/parisian-floral-calm
+
+Small black tea promo image: © 2013 Julia Claxton http://mdteashop.co.uk
+
+Small green tea promo image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/some-like-it-hot-and-cold
+
+About page image: © 2013 Julia Claxton http://mdteashop.co.uk
+
+English breakfast black tea image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/shades-of-grey
+
+Orange pekoe image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/topsy-tea
+
+Dragon-well image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/jasmine-dragon-pearls
+
+Silver-needle image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/the-devil-is-a-woman
+
+White-peony image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/pink-pride
+
+Gyokuro image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/matcha-green-tea
+
+Dragonwell image: © 2013 Julia Claxton http://mdteashop.co.uk/collections/teas/products/jasmine-dragon-pearls
+
+Japanese sencha: http://mdteashop.co.uk/collections/teas/products/some-like-it-hot-and-cold
+
+---
+
+# TECHNOLOGY
+
+Last updated: 2014/04/23
+Standards: HTML5, CSS3, JS
+Components: Jquery, Jekyll, etc...
+Software: Sublime, Text2, Adobe 
