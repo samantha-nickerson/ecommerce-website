@@ -1,13 +1,12 @@
-<ul>
+
 	{% for tea in site.pages %}
 		{% if tea.type == include.type %}
-			<li>
+			<div class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-3">
 				<a href="{{site.baseurl}}{{tea.url}}">
 					<img class= "img-flex" src="{{site.baseurl}}/images/tea/{{tea.image}}" alt="Photo of {{tea.title}}" />
 					<h4>{{tea.title}}</h4>
 					<p>{{tea.meta}}</p>
 				</a>
-			</li>
+			</div>
 		{% endif %}
 	{% endfor %}
-</ul>
