@@ -46,7 +46,7 @@ html, body {
   border-radius: 50%;
   background: #000;
   overflow: hidden;
-  transition: color .3s;
+  transition; color .3s;
 }
 
 .social a,
