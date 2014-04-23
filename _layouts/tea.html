@@ -2,19 +2,21 @@
 layout: default
 ---
 
-<h1>{{page.type}}</h1>
+<div class="box">
+	<h1>{{page.type}}</h1>
 
-{{content}}
+	{{content}}
 
-<img src="{{site.baseurl}}/images/tea/{{page.image}}" alt="Photo of {{page.title}}" />
+	<img class= "img-flex grid unit unit-s-1 unit-m-1 unit-l-1-3" src="{{site.baseurl}}/images/tea/{{page.image}}" alt="Photo of {{page.title}}" />
 
-<dl>
-	<dt>Cost:</dt><dd>{{page.cost}}</dd>
-	<dt>Availability:</dt><dd>{{page.availability}}</dd>
-	<dt>Ingredients:</dt><dd>{{page.ingredients}}</dd>
-	<dt>Featuring:</dt><dd>{{page.featuring}}</dd>
-</dt>
+	<dl>
+		<dt>Cost:</dt><dd>{{page.cost}}</dd>
+		<dt>Availability:</dt><dd>{{page.availability}}</dd>
+		<dt>Ingredients:</dt><dd>{{page.ingredients}}</dd>
+		<dt>Featuring:</dt><dd>{{page.featuring}}</dd>
+	</dt>
 
-<div>
-	<a class="btn btn-alt" href="{{site.baseurl}}/cart/">Buy Now</a>
+	<div>
+		<a class="btn btn-alt" href="{{site.baseurl}}/cart/">Buy Now</a>
+	</div>
 </div>

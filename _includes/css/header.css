@@ -38,6 +38,11 @@
 	color: #91AA3D;
 }
 
+.nav2{
+	display: block;
+	padding: 1rem;
+}
+
 .banner {
 	background: #6e9d1b url("../images/banner.jpg") repeat center center;
 	padding: 6em;
