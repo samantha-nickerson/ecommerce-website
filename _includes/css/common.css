@@ -24,6 +24,11 @@ html {
 	white-space: nowrap;
 }
 
+img {
+	display: block;
+	width: 100%;
+}
+
 .img-flex {
 	display: block;
 	width: 100%;
